@@ -36,7 +36,7 @@
    This application requires an API key from OpenWeatherMap to fetch real-time weather data.
    Sign up at (https://openweathermap.org/) and get your API key.
    ```bash
-   API_KEY = 'your_openweathermap_api_key'
+   API_KEY = 'your_openweathermap_api_key' /f7bcfb10dc468db88dd48901adaca928
    ```
 ## Usage
 
