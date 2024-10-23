@@ -16,17 +16,17 @@ git clone https://github.com/Harisudhan23
 cd weather_monitoring
 pip install -r requirements.txt
 
-## Usage
+### Usage
 
 To start the application, run the following command:
 python weather_monitoring.py
 
-## Testing
+### Testing
 
 To run the tests, use the following command:
 python -m unittest test_weather_monitoring.py
 
-## Licence
+# Licence
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
